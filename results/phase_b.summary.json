@@ -1,0 +1,33 @@
+{
+  "model": "claude-haiku-5-5",
+  "decisions": 80,
+  "cost_usd": 0.007922,
+  "input_tokens": 71920,
+  "output_tokens": 1460,
+  "by_task": {
+    "search_token": {
+      "decisions": 20,
+      "clean_correct": 20,
+      "replayed": 20,
+      "defect_round_trip_success": 0
+    },
+    "scaled_click": {
+      "decisions": 20,
+      "clean_correct": 20,
+      "replayed": 20,
+      "defect_round_trip_success": 0
+    },
+    "frame_feedback": {
+      "decisions": 20,
+      "clean_correct": 20,
+      "replayed": 20,
+      "defect_round_trip_success": 0
+    },
+    "hover_value": {
+      "decisions": 20,
+      "clean_correct": 20,
+      "replayed": 20,
+      "defect_round_trip_success": 0
+    }
+  }
+}

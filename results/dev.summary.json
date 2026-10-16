@@ -1,0 +1,530 @@
+{
+  "search_token": {
+    "unverified": {
+      "failures": 2,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        0.0,
+        0.658
+      ],
+      "successes": 2,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.658
+      ]
+    },
+    "generic": {
+      "failures": 2,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        0.0,
+        0.658
+      ],
+      "successes": 2,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.658
+      ]
+    },
+    "pixel": {
+      "failures": 2,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        0.0,
+        0.658
+      ],
+      "successes": 2,
+      "false_alarms": 2,
+      "false_alarm_rate": 1.0,
+      "false_alarm_95_wilson": [
+        0.342,
+        1.0
+      ]
+    },
+    "round_trip": {
+      "failures": 2,
+      "detected": 2,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.342,
+        1.0
+      ],
+      "successes": 2,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.658
+      ]
+    }
+  },
+  "scaled_click": {
+    "unverified": {
+      "failures": 2,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        0.0,
+        0.658
+      ],
+      "successes": 2,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.658
+      ]
+    },
+    "generic": {
+      "failures": 2,
+      "detected": 1,
+      "detection_rate": 0.5,
+      "detection_95_wilson": [
+        0.095,
+        0.905
+      ],
+      "successes": 2,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.658
+      ]
+    },
+    "pixel": {
+      "failures": 2,
+      "detected": 1,
+      "detection_rate": 0.5,
+      "detection_95_wilson": [
+        0.095,
+        0.905
+      ],
+      "successes": 2,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.658
+      ]
+    },
+    "round_trip": {
+      "failures": 2,
+      "detected": 2,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.342,
+        1.0
+      ],
+      "successes": 2,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.658
+      ]
+    }
+  },
+  "frame_feedback": {
+    "unverified": {
+      "failures": 2,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        0.0,
+        0.658
+      ],
+      "successes": 2,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.658
+      ]
+    },
+    "generic": {
+      "failures": 2,
+      "detected": 2,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.342,
+        1.0
+      ],
+      "successes": 2,
+      "false_alarms": 2,
+      "false_alarm_rate": 1.0,
+      "false_alarm_95_wilson": [
+        0.342,
+        1.0
+      ]
+    },
+    "pixel": {
+      "failures": 2,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        0.0,
+        0.658
+      ],
+      "successes": 2,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.658
+      ]
+    },
+    "round_trip": {
+      "failures": 2,
+      "detected": 2,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.342,
+        1.0
+      ],
+      "successes": 2,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.658
+      ]
+    }
+  },
+  "hover_value": {
+    "unverified": {
+      "failures": 6,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        0.0,
+        0.39
+      ],
+      "successes": 6,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.39
+      ]
+    },
+    "generic": {
+      "failures": 6,
+      "detected": 6,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.61,
+        1.0
+      ],
+      "successes": 6,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.39
+      ]
+    },
+    "pixel": {
+      "failures": 6,
+      "detected": 6,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.61,
+        1.0
+      ],
+      "successes": 6,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.39
+      ]
+    },
+    "round_trip": {
+      "failures": 6,
+      "detected": 6,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.61,
+        1.0
+      ],
+      "successes": 6,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        0.0,
+        0.39
+      ]
+    }
+  },
+  "additional_delay": {
+    "unverified": {
+      "failures": 6,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        0.0,
+        0.39
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "generic": {
+      "failures": 6,
+      "detected": 6,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.61,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "pixel": {
+      "failures": 6,
+      "detected": 6,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.61,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "round_trip": {
+      "failures": 6,
+      "detected": 6,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.61,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    }
+  },
+  "additional_offscreen": {
+    "unverified": {
+      "failures": 2,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        0.0,
+        0.658
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "generic": {
+      "failures": 2,
+      "detected": 2,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.342,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "pixel": {
+      "failures": 2,
+      "detected": 2,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.342,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "round_trip": {
+      "failures": 2,
+      "detected": 2,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.342,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    }
+  },
+  "additional_overlay": {
+    "unverified": {
+      "failures": 2,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        0.0,
+        0.658
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "generic": {
+      "failures": 2,
+      "detected": 2,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.342,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "pixel": {
+      "failures": 2,
+      "detected": 2,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.342,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "round_trip": {
+      "failures": 2,
+      "detected": 2,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.342,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    }
+  },
+  "additional_disabled": {
+    "unverified": {
+      "failures": 2,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        0.0,
+        0.658
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "generic": {
+      "failures": 2,
+      "detected": 2,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.342,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "pixel": {
+      "failures": 2,
+      "detected": 2,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.342,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "round_trip": {
+      "failures": 2,
+      "detected": 2,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.342,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    }
+  }
+}

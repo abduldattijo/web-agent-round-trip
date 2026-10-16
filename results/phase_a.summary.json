@@ -1,0 +1,538 @@
+{
+  "search_token": {
+    "timing_disagreements": 0,
+    "unverified": {
+      "failures": 40,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        -0.0,
+        0.088
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    },
+    "generic": {
+      "failures": 40,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        -0.0,
+        0.088
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    },
+    "pixel": {
+      "failures": 40,
+      "detected": 3,
+      "detection_rate": 0.075,
+      "detection_95_wilson": [
+        0.026,
+        0.199
+      ],
+      "successes": 40,
+      "false_alarms": 40,
+      "false_alarm_rate": 1.0,
+      "false_alarm_95_wilson": [
+        0.912,
+        1.0
+      ]
+    },
+    "round_trip": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    }
+  },
+  "scaled_click": {
+    "timing_disagreements": 0,
+    "unverified": {
+      "failures": 40,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        -0.0,
+        0.088
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    },
+    "generic": {
+      "failures": 40,
+      "detected": 20,
+      "detection_rate": 0.5,
+      "detection_95_wilson": [
+        0.352,
+        0.648
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    },
+    "pixel": {
+      "failures": 40,
+      "detected": 20,
+      "detection_rate": 0.5,
+      "detection_95_wilson": [
+        0.352,
+        0.648
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    },
+    "round_trip": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    }
+  },
+  "frame_feedback": {
+    "timing_disagreements": 0,
+    "unverified": {
+      "failures": 40,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        -0.0,
+        0.088
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    },
+    "generic": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 40,
+      "false_alarms": 40,
+      "false_alarm_rate": 1.0,
+      "false_alarm_95_wilson": [
+        0.912,
+        1.0
+      ]
+    },
+    "pixel": {
+      "failures": 40,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        -0.0,
+        0.088
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    },
+    "round_trip": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    }
+  },
+  "hover_value": {
+    "timing_disagreements": 0,
+    "unverified": {
+      "failures": 40,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        -0.0,
+        0.088
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    },
+    "generic": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    },
+    "pixel": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    },
+    "round_trip": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 40,
+      "false_alarms": 0,
+      "false_alarm_rate": 0.0,
+      "false_alarm_95_wilson": [
+        -0.0,
+        0.088
+      ]
+    }
+  },
+  "additional_delay": {
+    "timing_disagreements": 0,
+    "unverified": {
+      "failures": 40,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        -0.0,
+        0.088
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "generic": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "pixel": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "round_trip": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    }
+  },
+  "additional_offscreen": {
+    "timing_disagreements": 0,
+    "unverified": {
+      "failures": 40,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        -0.0,
+        0.088
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "generic": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "pixel": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "round_trip": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    }
+  },
+  "additional_overlay": {
+    "timing_disagreements": 0,
+    "unverified": {
+      "failures": 40,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        -0.0,
+        0.088
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "generic": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "pixel": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "round_trip": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    }
+  },
+  "additional_disabled": {
+    "timing_disagreements": 0,
+    "unverified": {
+      "failures": 40,
+      "detected": 0,
+      "detection_rate": 0.0,
+      "detection_95_wilson": [
+        -0.0,
+        0.088
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "generic": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "pixel": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    },
+    "round_trip": {
+      "failures": 40,
+      "detected": 40,
+      "detection_rate": 1.0,
+      "detection_95_wilson": [
+        0.912,
+        1.0
+      ],
+      "successes": 0,
+      "false_alarms": 0,
+      "false_alarm_rate": null,
+      "false_alarm_95_wilson": [
+        null,
+        null
+      ]
+    }
+  }
+}

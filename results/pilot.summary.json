@@ -1,0 +1,42 @@
+{
+  "model": "claude-haiku-5-5",
+  "decisions": 8,
+  "episodes": 16,
+  "cost_usd": 0.000792,
+  "input_tokens": 7192,
+  "output_tokens": 146,
+  "by_task": {
+    "search_token": {
+      "clean_correct": 2,
+      "defect_correct": 0,
+      "layouts": 2
+    },
+    "scaled_click": {
+      "clean_correct": 2,
+      "defect_correct": 0,
+      "layouts": 2
+    },
+    "frame_feedback": {
+      "clean_correct": 2,
+      "defect_correct": 0,
+      "layouts": 2
+    },
+    "hover_value": {
+      "clean_correct": 2,
+      "defect_correct": 0,
+      "layouts": 2
+    }
+  },
+  "visual": {
+    "png": "figures/scaled_click_seed1_comparison.png",
+    "gif": "figures/scaled_click_seed1.gif",
+    "green_image_point": [
+      150,
+      413
+    ],
+    "red_image_point": [
+      112.5,
+      309.75
+    ]
+  }
+}

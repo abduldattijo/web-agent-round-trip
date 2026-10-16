@@ -1,0 +1,36 @@
+{
+  "video": "figures/continuous_model_click_seed12.webm",
+  "source_decision": "results/phase_b.jsonl",
+  "task": "scaled_click",
+  "seed": 12,
+  "model": "claude-haiku-5-5",
+  "model_reply": "{\"action\":\"click\",\"x\":150,\"y\":413}",
+  "image_action": {
+    "action": "click",
+    "x": 150,
+    "y": 413
+  },
+  "clean_css": [
+    200.0,
+    550.6666666666666
+  ],
+  "faulty_css": [
+    150,
+    413
+  ],
+  "clean_ledger": [
+    {
+      "type": "click",
+      "detail": "button-15",
+      "t": 1391.800000011921
+    }
+  ],
+  "faulty_ledger": [
+    {
+      "type": "click",
+      "detail": "button-10",
+      "t": 1321.699999988079
+    }
+  ],
+  "note": "One continuous local browser recording. Text and point overlays were added for clarity; the model decision was recorded in Phase B."
+}

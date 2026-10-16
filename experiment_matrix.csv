@@ -1,0 +1,9 @@
+task_id,stage,fixture,known_correct_action,injected_defect,oracle_signal,policies_tested,seeds_dev,seeds_final,cases_per_policy
+search_token,parsing,local search page,type the exact record name,append chat template token to typed text,input value and submitted text in page ledger,unverified|generic|pixel|round_trip,0-9,10-49,40 defect + 40 clean
+scaled_click,execution,local button grid,click target button at image coordinates,use image coordinates as viewport coordinates,element that received the real click,unverified|generic|pixel|round_trip,0-9,10-49,40 defect + 40 clean
+frame_feedback,feedback,local embedded same-origin frame,select row inside the frame,report only top-level state,selected row inside the frame,unverified|generic|pixel|round_trip,0-9,10-49,40 defect + 40 clean
+hover_value,observation,local chart,hover the data mark and read its value,capture next view before tooltip appears,tooltip text visible at capture,unverified|generic|pixel|round_trip,0-9,10-49,40 defect + 40 clean
+additional_delay,additional,local state-change page,activate the control,render the resulting state 800 ms late,ledger state at 1500 ms,unverified|generic|pixel|round_trip,none,10-49,40 once each
+additional_offscreen,additional,local long page,click the target after scrolling,place target below the initial viewport,element that received the real click,unverified|generic|pixel|round_trip,none,10-49,40 once each
+additional_overlay,additional,local button page,click the target button,cover the target with an overlay,element that received the real click,unverified|generic|pixel|round_trip,none,10-49,40 once each
+additional_disabled,additional,local button page,click the target button,disable the button before dispatch,button state and any state change,unverified|generic|pixel|round_trip,none,10-49,40 once each

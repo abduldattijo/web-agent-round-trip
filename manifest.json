@@ -1,0 +1,8752 @@
+[
+  {
+    "task": "search_token",
+    "seed": 0,
+    "target": "Record-00",
+    "x": 680,
+    "y": 240,
+    "value": 93,
+    "instruction": "Search the exact record name Record-00."
+  },
+  {
+    "task": "search_token",
+    "seed": 1,
+    "target": "Record-01",
+    "x": 740,
+    "y": 440,
+    "value": 24,
+    "instruction": "Search the exact record name Record-01."
+  },
+  {
+    "task": "search_token",
+    "seed": 2,
+    "target": "Record-02",
+    "x": 580,
+    "y": 300,
+    "value": 84,
+    "instruction": "Search the exact record name Record-02."
+  },
+  {
+    "task": "search_token",
+    "seed": 3,
+    "target": "Record-03",
+    "x": 560,
+    "y": 300,
+    "value": 48,
+    "instruction": "Search the exact record name Record-03."
+  },
+  {
+    "task": "search_token",
+    "seed": 4,
+    "target": "Record-04",
+    "x": 840,
+    "y": 180,
+    "value": 96,
+    "instruction": "Search the exact record name Record-04."
+  },
+  {
+    "task": "search_token",
+    "seed": 5,
+    "target": "Record-05",
+    "x": 740,
+    "y": 380,
+    "value": 90,
+    "instruction": "Search the exact record name Record-05."
+  },
+  {
+    "task": "search_token",
+    "seed": 6,
+    "target": "Record-06",
+    "x": 740,
+    "y": 300,
+    "value": 15,
+    "instruction": "Search the exact record name Record-06."
+  },
+  {
+    "task": "search_token",
+    "seed": 7,
+    "target": "Record-07",
+    "x": 800,
+    "y": 300,
+    "value": 46,
+    "instruction": "Search the exact record name Record-07."
+  },
+  {
+    "task": "search_token",
+    "seed": 8,
+    "target": "Record-08",
+    "x": 620,
+    "y": 320,
+    "value": 50,
+    "instruction": "Search the exact record name Record-08."
+  },
+  {
+    "task": "search_token",
+    "seed": 9,
+    "target": "Record-09",
+    "x": 780,
+    "y": 240,
+    "value": 48,
+    "instruction": "Search the exact record name Record-09."
+  },
+  {
+    "task": "search_token",
+    "seed": 10,
+    "target": "Record-10",
+    "x": 780,
+    "y": 340,
+    "value": 12,
+    "instruction": "Search the exact record name Record-10."
+  },
+  {
+    "task": "search_token",
+    "seed": 11,
+    "target": "Record-11",
+    "x": 520,
+    "y": 400,
+    "value": 95,
+    "instruction": "Search the exact record name Record-11."
+  },
+  {
+    "task": "search_token",
+    "seed": 12,
+    "target": "Record-12",
+    "x": 620,
+    "y": 360,
+    "value": 66,
+    "instruction": "Search the exact record name Record-12."
+  },
+  {
+    "task": "search_token",
+    "seed": 13,
+    "target": "Record-13",
+    "x": 620,
+    "y": 440,
+    "value": 53,
+    "instruction": "Search the exact record name Record-13."
+  },
+  {
+    "task": "search_token",
+    "seed": 14,
+    "target": "Record-14",
+    "x": 760,
+    "y": 400,
+    "value": 97,
+    "instruction": "Search the exact record name Record-14."
+  },
+  {
+    "task": "search_token",
+    "seed": 15,
+    "target": "Record-15",
+    "x": 580,
+    "y": 180,
+    "value": 59,
+    "instruction": "Search the exact record name Record-15."
+  },
+  {
+    "task": "search_token",
+    "seed": 16,
+    "target": "Record-16",
+    "x": 580,
+    "y": 280,
+    "value": 31,
+    "instruction": "Search the exact record name Record-16."
+  },
+  {
+    "task": "search_token",
+    "seed": 17,
+    "target": "Record-17",
+    "x": 820,
+    "y": 180,
+    "value": 38,
+    "instruction": "Search the exact record name Record-17."
+  },
+  {
+    "task": "search_token",
+    "seed": 18,
+    "target": "Record-18",
+    "x": 620,
+    "y": 280,
+    "value": 74,
+    "instruction": "Search the exact record name Record-18."
+  },
+  {
+    "task": "search_token",
+    "seed": 19,
+    "target": "Record-19",
+    "x": 700,
+    "y": 340,
+    "value": 48,
+    "instruction": "Search the exact record name Record-19."
+  },
+  {
+    "task": "search_token",
+    "seed": 20,
+    "target": "Record-20",
+    "x": 660,
+    "y": 200,
+    "value": 64,
+    "instruction": "Search the exact record name Record-20."
+  },
+  {
+    "task": "search_token",
+    "seed": 21,
+    "target": "Record-21",
+    "x": 740,
+    "y": 340,
+    "value": 14,
+    "instruction": "Search the exact record name Record-21."
+  },
+  {
+    "task": "search_token",
+    "seed": 22,
+    "target": "Record-22",
+    "x": 720,
+    "y": 420,
+    "value": 40,
+    "instruction": "Search the exact record name Record-22."
+  },
+  {
+    "task": "search_token",
+    "seed": 23,
+    "target": "Record-23",
+    "x": 600,
+    "y": 420,
+    "value": 45,
+    "instruction": "Search the exact record name Record-23."
+  },
+  {
+    "task": "search_token",
+    "seed": 24,
+    "target": "Record-24",
+    "x": 760,
+    "y": 300,
+    "value": 78,
+    "instruction": "Search the exact record name Record-24."
+  },
+  {
+    "task": "search_token",
+    "seed": 25,
+    "target": "Record-25",
+    "x": 640,
+    "y": 200,
+    "value": 15,
+    "instruction": "Search the exact record name Record-25."
+  },
+  {
+    "task": "search_token",
+    "seed": 26,
+    "target": "Record-26",
+    "x": 740,
+    "y": 180,
+    "value": 37,
+    "instruction": "Search the exact record name Record-26."
+  },
+  {
+    "task": "search_token",
+    "seed": 27,
+    "target": "Record-27",
+    "x": 820,
+    "y": 320,
+    "value": 56,
+    "instruction": "Search the exact record name Record-27."
+  },
+  {
+    "task": "search_token",
+    "seed": 28,
+    "target": "Record-28",
+    "x": 820,
+    "y": 300,
+    "value": 29,
+    "instruction": "Search the exact record name Record-28."
+  },
+  {
+    "task": "search_token",
+    "seed": 29,
+    "target": "Record-29",
+    "x": 720,
+    "y": 240,
+    "value": 26,
+    "instruction": "Search the exact record name Record-29."
+  },
+  {
+    "task": "search_token",
+    "seed": 30,
+    "target": "Record-30",
+    "x": 840,
+    "y": 400,
+    "value": 57,
+    "instruction": "Search the exact record name Record-30."
+  },
+  {
+    "task": "search_token",
+    "seed": 31,
+    "target": "Record-31",
+    "x": 760,
+    "y": 240,
+    "value": 29,
+    "instruction": "Search the exact record name Record-31."
+  },
+  {
+    "task": "search_token",
+    "seed": 32,
+    "target": "Record-32",
+    "x": 780,
+    "y": 240,
+    "value": 24,
+    "instruction": "Search the exact record name Record-32."
+  },
+  {
+    "task": "search_token",
+    "seed": 33,
+    "target": "Record-33",
+    "x": 720,
+    "y": 400,
+    "value": 94,
+    "instruction": "Search the exact record name Record-33."
+  },
+  {
+    "task": "search_token",
+    "seed": 34,
+    "target": "Record-34",
+    "x": 780,
+    "y": 440,
+    "value": 18,
+    "instruction": "Search the exact record name Record-34."
+  },
+  {
+    "task": "search_token",
+    "seed": 35,
+    "target": "Record-35",
+    "x": 660,
+    "y": 200,
+    "value": 66,
+    "instruction": "Search the exact record name Record-35."
+  },
+  {
+    "task": "search_token",
+    "seed": 36,
+    "target": "Record-36",
+    "x": 700,
+    "y": 400,
+    "value": 95,
+    "instruction": "Search the exact record name Record-36."
+  },
+  {
+    "task": "search_token",
+    "seed": 37,
+    "target": "Record-37",
+    "x": 520,
+    "y": 200,
+    "value": 33,
+    "instruction": "Search the exact record name Record-37."
+  },
+  {
+    "task": "search_token",
+    "seed": 38,
+    "target": "Record-38",
+    "x": 680,
+    "y": 440,
+    "value": 62,
+    "instruction": "Search the exact record name Record-38."
+  },
+  {
+    "task": "search_token",
+    "seed": 39,
+    "target": "Record-39",
+    "x": 560,
+    "y": 380,
+    "value": 13,
+    "instruction": "Search the exact record name Record-39."
+  },
+  {
+    "task": "search_token",
+    "seed": 40,
+    "target": "Record-40",
+    "x": 760,
+    "y": 420,
+    "value": 24,
+    "instruction": "Search the exact record name Record-40."
+  },
+  {
+    "task": "search_token",
+    "seed": 41,
+    "target": "Record-41",
+    "x": 680,
+    "y": 300,
+    "value": 96,
+    "instruction": "Search the exact record name Record-41."
+  },
+  {
+    "task": "search_token",
+    "seed": 42,
+    "target": "Record-42",
+    "x": 780,
+    "y": 400,
+    "value": 89,
+    "instruction": "Search the exact record name Record-42."
+  },
+  {
+    "task": "search_token",
+    "seed": 43,
+    "target": "Record-43",
+    "x": 740,
+    "y": 320,
+    "value": 25,
+    "instruction": "Search the exact record name Record-43."
+  },
+  {
+    "task": "search_token",
+    "seed": 44,
+    "target": "Record-44",
+    "x": 840,
+    "y": 320,
+    "value": 24,
+    "instruction": "Search the exact record name Record-44."
+  },
+  {
+    "task": "search_token",
+    "seed": 45,
+    "target": "Record-45",
+    "x": 580,
+    "y": 360,
+    "value": 59,
+    "instruction": "Search the exact record name Record-45."
+  },
+  {
+    "task": "search_token",
+    "seed": 46,
+    "target": "Record-46",
+    "x": 560,
+    "y": 420,
+    "value": 51,
+    "instruction": "Search the exact record name Record-46."
+  },
+  {
+    "task": "search_token",
+    "seed": 47,
+    "target": "Record-47",
+    "x": 760,
+    "y": 300,
+    "value": 49,
+    "instruction": "Search the exact record name Record-47."
+  },
+  {
+    "task": "search_token",
+    "seed": 48,
+    "target": "Record-48",
+    "x": 560,
+    "y": 340,
+    "value": 36,
+    "instruction": "Search the exact record name Record-48."
+  },
+  {
+    "task": "search_token",
+    "seed": 49,
+    "target": "Record-49",
+    "x": 660,
+    "y": 320,
+    "value": 16,
+    "instruction": "Search the exact record name Record-49."
+  },
+  {
+    "task": "scaled_click",
+    "seed": 0,
+    "target": "Record-00",
+    "x": 520,
+    "y": 320,
+    "value": 47,
+    "instruction": "Click Item 22.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 22
+  },
+  {
+    "task": "scaled_click",
+    "seed": 1,
+    "target": "Record-01",
+    "x": 540,
+    "y": 280,
+    "value": 26,
+    "instruction": "Click Item 15.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 15
+  },
+  {
+    "task": "scaled_click",
+    "seed": 2,
+    "target": "Record-02",
+    "x": 840,
+    "y": 360,
+    "value": 39,
+    "instruction": "Click Item 18.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 18
+  },
+  {
+    "task": "scaled_click",
+    "seed": 3,
+    "target": "Record-03",
+    "x": 760,
+    "y": 420,
+    "value": 62,
+    "instruction": "Click Item 15.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 15
+  },
+  {
+    "task": "scaled_click",
+    "seed": 4,
+    "target": "Record-04",
+    "x": 680,
+    "y": 180,
+    "value": 93,
+    "instruction": "Click Item 21.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 21
+  },
+  {
+    "task": "scaled_click",
+    "seed": 5,
+    "target": "Record-05",
+    "x": 840,
+    "y": 300,
+    "value": 70,
+    "instruction": "Click Item 16.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 16
+  },
+  {
+    "task": "scaled_click",
+    "seed": 6,
+    "target": "Record-06",
+    "x": 680,
+    "y": 420,
+    "value": 17,
+    "instruction": "Click Item 17.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 17
+  },
+  {
+    "task": "scaled_click",
+    "seed": 7,
+    "target": "Record-07",
+    "x": 780,
+    "y": 320,
+    "value": 13,
+    "instruction": "Click Item 15.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 15
+  },
+  {
+    "task": "scaled_click",
+    "seed": 8,
+    "target": "Record-08",
+    "x": 740,
+    "y": 380,
+    "value": 82,
+    "instruction": "Click Item 18.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 18
+  },
+  {
+    "task": "scaled_click",
+    "seed": 9,
+    "target": "Record-09",
+    "x": 800,
+    "y": 180,
+    "value": 15,
+    "instruction": "Click Item 21.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 21
+  },
+  {
+    "task": "scaled_click",
+    "seed": 10,
+    "target": "Record-10",
+    "x": 680,
+    "y": 220,
+    "value": 35,
+    "instruction": "Click Item 13.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 13
+  },
+  {
+    "task": "scaled_click",
+    "seed": 11,
+    "target": "Record-11",
+    "x": 620,
+    "y": 220,
+    "value": 98,
+    "instruction": "Click Item 19.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 19
+  },
+  {
+    "task": "scaled_click",
+    "seed": 12,
+    "target": "Record-12",
+    "x": 540,
+    "y": 400,
+    "value": 60,
+    "instruction": "Click Item 15.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 15
+  },
+  {
+    "task": "scaled_click",
+    "seed": 13,
+    "target": "Record-13",
+    "x": 520,
+    "y": 200,
+    "value": 33,
+    "instruction": "Click Item 24.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 24
+  },
+  {
+    "task": "scaled_click",
+    "seed": 14,
+    "target": "Record-14",
+    "x": 580,
+    "y": 220,
+    "value": 14,
+    "instruction": "Click Item 24.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 24
+  },
+  {
+    "task": "scaled_click",
+    "seed": 15,
+    "target": "Record-15",
+    "x": 700,
+    "y": 260,
+    "value": 12,
+    "instruction": "Click Item 19.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 19
+  },
+  {
+    "task": "scaled_click",
+    "seed": 16,
+    "target": "Record-16",
+    "x": 600,
+    "y": 360,
+    "value": 22,
+    "instruction": "Click Item 24.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 24
+  },
+  {
+    "task": "scaled_click",
+    "seed": 17,
+    "target": "Record-17",
+    "x": 680,
+    "y": 300,
+    "value": 67,
+    "instruction": "Click Item 23.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 23
+  },
+  {
+    "task": "scaled_click",
+    "seed": 18,
+    "target": "Record-18",
+    "x": 620,
+    "y": 300,
+    "value": 62,
+    "instruction": "Click Item 21.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 21
+  },
+  {
+    "task": "scaled_click",
+    "seed": 19,
+    "target": "Record-19",
+    "x": 720,
+    "y": 200,
+    "value": 49,
+    "instruction": "Click Item 19.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 19
+  },
+  {
+    "task": "scaled_click",
+    "seed": 20,
+    "target": "Record-20",
+    "x": 720,
+    "y": 360,
+    "value": 68,
+    "instruction": "Click Item 16.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 16
+  },
+  {
+    "task": "scaled_click",
+    "seed": 21,
+    "target": "Record-21",
+    "x": 820,
+    "y": 420,
+    "value": 87,
+    "instruction": "Click Item 18.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 18
+  },
+  {
+    "task": "scaled_click",
+    "seed": 22,
+    "target": "Record-22",
+    "x": 600,
+    "y": 200,
+    "value": 94,
+    "instruction": "Click Item 24.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 24
+  },
+  {
+    "task": "scaled_click",
+    "seed": 23,
+    "target": "Record-23",
+    "x": 820,
+    "y": 280,
+    "value": 63,
+    "instruction": "Click Item 17.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 17
+  },
+  {
+    "task": "scaled_click",
+    "seed": 24,
+    "target": "Record-24",
+    "x": 680,
+    "y": 180,
+    "value": 48,
+    "instruction": "Click Item 18.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 18
+  },
+  {
+    "task": "scaled_click",
+    "seed": 25,
+    "target": "Record-25",
+    "x": 660,
+    "y": 200,
+    "value": 64,
+    "instruction": "Click Item 13.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 13
+  },
+  {
+    "task": "scaled_click",
+    "seed": 26,
+    "target": "Record-26",
+    "x": 740,
+    "y": 180,
+    "value": 74,
+    "instruction": "Click Item 13.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 13
+  },
+  {
+    "task": "scaled_click",
+    "seed": 27,
+    "target": "Record-27",
+    "x": 660,
+    "y": 340,
+    "value": 67,
+    "instruction": "Click Item 18.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 18
+  },
+  {
+    "task": "scaled_click",
+    "seed": 28,
+    "target": "Record-28",
+    "x": 560,
+    "y": 180,
+    "value": 93,
+    "instruction": "Click Item 23.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 23
+  },
+  {
+    "task": "scaled_click",
+    "seed": 29,
+    "target": "Record-29",
+    "x": 840,
+    "y": 380,
+    "value": 12,
+    "instruction": "Click Item 24.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 24
+  },
+  {
+    "task": "scaled_click",
+    "seed": 30,
+    "target": "Record-30",
+    "x": 820,
+    "y": 280,
+    "value": 36,
+    "instruction": "Click Item 14.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 14
+  },
+  {
+    "task": "scaled_click",
+    "seed": 31,
+    "target": "Record-31",
+    "x": 600,
+    "y": 300,
+    "value": 14,
+    "instruction": "Click Item 13.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 13
+  },
+  {
+    "task": "scaled_click",
+    "seed": 32,
+    "target": "Record-32",
+    "x": 540,
+    "y": 280,
+    "value": 73,
+    "instruction": "Click Item 13.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 13
+  },
+  {
+    "task": "scaled_click",
+    "seed": 33,
+    "target": "Record-33",
+    "x": 540,
+    "y": 240,
+    "value": 21,
+    "instruction": "Click Item 14.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 14
+  },
+  {
+    "task": "scaled_click",
+    "seed": 34,
+    "target": "Record-34",
+    "x": 740,
+    "y": 280,
+    "value": 33,
+    "instruction": "Click Item 21.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 21
+  },
+  {
+    "task": "scaled_click",
+    "seed": 35,
+    "target": "Record-35",
+    "x": 760,
+    "y": 340,
+    "value": 19,
+    "instruction": "Click Item 24.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 24
+  },
+  {
+    "task": "scaled_click",
+    "seed": 36,
+    "target": "Record-36",
+    "x": 800,
+    "y": 240,
+    "value": 71,
+    "instruction": "Click Item 16.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 16
+  },
+  {
+    "task": "scaled_click",
+    "seed": 37,
+    "target": "Record-37",
+    "x": 820,
+    "y": 380,
+    "value": 23,
+    "instruction": "Click Item 21.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 21
+  },
+  {
+    "task": "scaled_click",
+    "seed": 38,
+    "target": "Record-38",
+    "x": 620,
+    "y": 260,
+    "value": 25,
+    "instruction": "Click Item 14.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 14
+  },
+  {
+    "task": "scaled_click",
+    "seed": 39,
+    "target": "Record-39",
+    "x": 580,
+    "y": 440,
+    "value": 35,
+    "instruction": "Click Item 21.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 21
+  },
+  {
+    "task": "scaled_click",
+    "seed": 40,
+    "target": "Record-40",
+    "x": 540,
+    "y": 240,
+    "value": 87,
+    "instruction": "Click Item 18.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 18
+  },
+  {
+    "task": "scaled_click",
+    "seed": 41,
+    "target": "Record-41",
+    "x": 740,
+    "y": 240,
+    "value": 60,
+    "instruction": "Click Item 17.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 17
+  },
+  {
+    "task": "scaled_click",
+    "seed": 42,
+    "target": "Record-42",
+    "x": 640,
+    "y": 220,
+    "value": 36,
+    "instruction": "Click Item 23.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 23
+  },
+  {
+    "task": "scaled_click",
+    "seed": 43,
+    "target": "Record-43",
+    "x": 520,
+    "y": 200,
+    "value": 32,
+    "instruction": "Click Item 23.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 23
+  },
+  {
+    "task": "scaled_click",
+    "seed": 44,
+    "target": "Record-44",
+    "x": 820,
+    "y": 220,
+    "value": 70,
+    "instruction": "Click Item 17.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 17
+  },
+  {
+    "task": "scaled_click",
+    "seed": 45,
+    "target": "Record-45",
+    "x": 680,
+    "y": 240,
+    "value": 47,
+    "instruction": "Click Item 17.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 17
+  },
+  {
+    "task": "scaled_click",
+    "seed": 46,
+    "target": "Record-46",
+    "x": 700,
+    "y": 220,
+    "value": 71,
+    "instruction": "Click Item 22.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 22
+  },
+  {
+    "task": "scaled_click",
+    "seed": 47,
+    "target": "Record-47",
+    "x": 760,
+    "y": 400,
+    "value": 80,
+    "instruction": "Click Item 24.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 24
+  },
+  {
+    "task": "scaled_click",
+    "seed": 48,
+    "target": "Record-48",
+    "x": 580,
+    "y": 240,
+    "value": 41,
+    "instruction": "Click Item 16.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 16
+  },
+  {
+    "task": "scaled_click",
+    "seed": 49,
+    "target": "Record-49",
+    "x": 660,
+    "y": 320,
+    "value": 30,
+    "instruction": "Click Item 24.",
+    "buttons": [
+      [
+        100,
+        70
+      ],
+      [
+        280,
+        70
+      ],
+      [
+        460,
+        70
+      ],
+      [
+        640,
+        70
+      ],
+      [
+        820,
+        70
+      ],
+      [
+        100,
+        175
+      ],
+      [
+        280,
+        175
+      ],
+      [
+        460,
+        175
+      ],
+      [
+        640,
+        175
+      ],
+      [
+        820,
+        175
+      ],
+      [
+        100,
+        280
+      ],
+      [
+        280,
+        280
+      ],
+      [
+        460,
+        280
+      ],
+      [
+        640,
+        280
+      ],
+      [
+        820,
+        280
+      ],
+      [
+        100,
+        385
+      ],
+      [
+        280,
+        385
+      ],
+      [
+        460,
+        385
+      ],
+      [
+        640,
+        385
+      ],
+      [
+        820,
+        385
+      ],
+      [
+        100,
+        490
+      ],
+      [
+        280,
+        490
+      ],
+      [
+        460,
+        490
+      ],
+      [
+        640,
+        490
+      ],
+      [
+        820,
+        490
+      ]
+    ],
+    "target_index": 24
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 0,
+    "target": "row-1",
+    "x": 820,
+    "y": 380,
+    "value": 40,
+    "instruction": "Select Record 1 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 1,
+    "target": "row-0",
+    "x": 600,
+    "y": 240,
+    "value": 71,
+    "instruction": "Select Record 0 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 2,
+    "target": "row-2",
+    "x": 580,
+    "y": 320,
+    "value": 78,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 3,
+    "target": "row-1",
+    "x": 560,
+    "y": 420,
+    "value": 81,
+    "instruction": "Select Record 1 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 4,
+    "target": "row-4",
+    "x": 540,
+    "y": 340,
+    "value": 71,
+    "instruction": "Select Record 4 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 5,
+    "target": "row-2",
+    "x": 800,
+    "y": 380,
+    "value": 76,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 6,
+    "target": "row-4",
+    "x": 720,
+    "y": 420,
+    "value": 97,
+    "instruction": "Select Record 4 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 7,
+    "target": "row-2",
+    "x": 740,
+    "y": 260,
+    "value": 48,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 8,
+    "target": "row-3",
+    "x": 540,
+    "y": 260,
+    "value": 83,
+    "instruction": "Select Record 3 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 9,
+    "target": "row-2",
+    "x": 700,
+    "y": 300,
+    "value": 25,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 10,
+    "target": "row-4",
+    "x": 660,
+    "y": 200,
+    "value": 78,
+    "instruction": "Select Record 4 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 11,
+    "target": "row-4",
+    "x": 840,
+    "y": 420,
+    "value": 59,
+    "instruction": "Select Record 4 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 12,
+    "target": "row-1",
+    "x": 820,
+    "y": 260,
+    "value": 76,
+    "instruction": "Select Record 1 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 13,
+    "target": "row-1",
+    "x": 660,
+    "y": 340,
+    "value": 60,
+    "instruction": "Select Record 1 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 14,
+    "target": "row-2",
+    "x": 520,
+    "y": 400,
+    "value": 90,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 15,
+    "target": "row-3",
+    "x": 800,
+    "y": 360,
+    "value": 33,
+    "instruction": "Select Record 3 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 16,
+    "target": "row-3",
+    "x": 620,
+    "y": 180,
+    "value": 15,
+    "instruction": "Select Record 3 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 17,
+    "target": "row-4",
+    "x": 700,
+    "y": 300,
+    "value": 41,
+    "instruction": "Select Record 4 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 18,
+    "target": "row-4",
+    "x": 600,
+    "y": 340,
+    "value": 67,
+    "instruction": "Select Record 4 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 19,
+    "target": "row-3",
+    "x": 580,
+    "y": 200,
+    "value": 76,
+    "instruction": "Select Record 3 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 20,
+    "target": "row-1",
+    "x": 560,
+    "y": 380,
+    "value": 30,
+    "instruction": "Select Record 1 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 21,
+    "target": "row-2",
+    "x": 640,
+    "y": 240,
+    "value": 45,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 22,
+    "target": "row-0",
+    "x": 820,
+    "y": 240,
+    "value": 88,
+    "instruction": "Select Record 0 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 23,
+    "target": "row-0",
+    "x": 680,
+    "y": 220,
+    "value": 58,
+    "instruction": "Select Record 0 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 24,
+    "target": "row-0",
+    "x": 520,
+    "y": 180,
+    "value": 96,
+    "instruction": "Select Record 0 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 25,
+    "target": "row-1",
+    "x": 580,
+    "y": 200,
+    "value": 11,
+    "instruction": "Select Record 1 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 26,
+    "target": "row-2",
+    "x": 820,
+    "y": 260,
+    "value": 54,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 27,
+    "target": "row-2",
+    "x": 820,
+    "y": 380,
+    "value": 26,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 28,
+    "target": "row-2",
+    "x": 720,
+    "y": 300,
+    "value": 10,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 29,
+    "target": "row-1",
+    "x": 700,
+    "y": 300,
+    "value": 35,
+    "instruction": "Select Record 1 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 30,
+    "target": "row-1",
+    "x": 820,
+    "y": 360,
+    "value": 98,
+    "instruction": "Select Record 1 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 31,
+    "target": "row-4",
+    "x": 680,
+    "y": 300,
+    "value": 63,
+    "instruction": "Select Record 4 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 32,
+    "target": "row-2",
+    "x": 800,
+    "y": 200,
+    "value": 98,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 33,
+    "target": "row-0",
+    "x": 840,
+    "y": 420,
+    "value": 23,
+    "instruction": "Select Record 0 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 34,
+    "target": "row-0",
+    "x": 600,
+    "y": 400,
+    "value": 94,
+    "instruction": "Select Record 0 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 35,
+    "target": "row-2",
+    "x": 720,
+    "y": 260,
+    "value": 25,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 36,
+    "target": "row-3",
+    "x": 740,
+    "y": 200,
+    "value": 94,
+    "instruction": "Select Record 3 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 37,
+    "target": "row-4",
+    "x": 740,
+    "y": 360,
+    "value": 23,
+    "instruction": "Select Record 4 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 38,
+    "target": "row-3",
+    "x": 700,
+    "y": 340,
+    "value": 25,
+    "instruction": "Select Record 3 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 39,
+    "target": "row-3",
+    "x": 560,
+    "y": 340,
+    "value": 97,
+    "instruction": "Select Record 3 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 40,
+    "target": "row-4",
+    "x": 680,
+    "y": 300,
+    "value": 82,
+    "instruction": "Select Record 4 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 41,
+    "target": "row-2",
+    "x": 720,
+    "y": 280,
+    "value": 48,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 42,
+    "target": "row-0",
+    "x": 800,
+    "y": 400,
+    "value": 93,
+    "instruction": "Select Record 0 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 43,
+    "target": "row-1",
+    "x": 820,
+    "y": 280,
+    "value": 36,
+    "instruction": "Select Record 1 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 44,
+    "target": "row-3",
+    "x": 640,
+    "y": 280,
+    "value": 96,
+    "instruction": "Select Record 3 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 45,
+    "target": "row-2",
+    "x": 840,
+    "y": 240,
+    "value": 81,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 46,
+    "target": "row-0",
+    "x": 680,
+    "y": 360,
+    "value": 58,
+    "instruction": "Select Record 0 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 47,
+    "target": "row-2",
+    "x": 740,
+    "y": 420,
+    "value": 89,
+    "instruction": "Select Record 2 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 48,
+    "target": "row-0",
+    "x": 620,
+    "y": 260,
+    "value": 61,
+    "instruction": "Select Record 0 inside the frame."
+  },
+  {
+    "task": "frame_feedback",
+    "seed": 49,
+    "target": "row-0",
+    "x": 780,
+    "y": 300,
+    "value": 67,
+    "instruction": "Select Record 0 inside the frame."
+  },
+  {
+    "task": "hover_value",
+    "seed": 0,
+    "target": "Record-00",
+    "x": 740,
+    "y": 420,
+    "value": 31,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 1,
+    "target": "Record-01",
+    "x": 720,
+    "y": 400,
+    "value": 17,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 2,
+    "target": "Record-02",
+    "x": 520,
+    "y": 300,
+    "value": 20,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 3,
+    "target": "Record-03",
+    "x": 620,
+    "y": 300,
+    "value": 33,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 4,
+    "target": "Record-04",
+    "x": 520,
+    "y": 320,
+    "value": 83,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 5,
+    "target": "Record-05",
+    "x": 560,
+    "y": 240,
+    "value": 22,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 6,
+    "target": "Record-06",
+    "x": 600,
+    "y": 280,
+    "value": 47,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 7,
+    "target": "Record-07",
+    "x": 740,
+    "y": 420,
+    "value": 30,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 8,
+    "target": "Record-08",
+    "x": 660,
+    "y": 380,
+    "value": 11,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 9,
+    "target": "Record-09",
+    "x": 820,
+    "y": 360,
+    "value": 72,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 10,
+    "target": "Record-10",
+    "x": 720,
+    "y": 380,
+    "value": 89,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 11,
+    "target": "Record-11",
+    "x": 560,
+    "y": 380,
+    "value": 67,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 12,
+    "target": "Record-12",
+    "x": 800,
+    "y": 300,
+    "value": 66,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 13,
+    "target": "Record-13",
+    "x": 520,
+    "y": 440,
+    "value": 69,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 14,
+    "target": "Record-14",
+    "x": 780,
+    "y": 440,
+    "value": 14,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 15,
+    "target": "Record-15",
+    "x": 640,
+    "y": 200,
+    "value": 70,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 16,
+    "target": "Record-16",
+    "x": 700,
+    "y": 280,
+    "value": 63,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 17,
+    "target": "Record-17",
+    "x": 840,
+    "y": 380,
+    "value": 35,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 18,
+    "target": "Record-18",
+    "x": 720,
+    "y": 440,
+    "value": 20,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 19,
+    "target": "Record-19",
+    "x": 680,
+    "y": 400,
+    "value": 22,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 20,
+    "target": "Record-20",
+    "x": 520,
+    "y": 340,
+    "value": 23,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 21,
+    "target": "Record-21",
+    "x": 740,
+    "y": 320,
+    "value": 89,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 22,
+    "target": "Record-22",
+    "x": 800,
+    "y": 320,
+    "value": 25,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 23,
+    "target": "Record-23",
+    "x": 780,
+    "y": 420,
+    "value": 98,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 24,
+    "target": "Record-24",
+    "x": 640,
+    "y": 300,
+    "value": 72,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 25,
+    "target": "Record-25",
+    "x": 840,
+    "y": 300,
+    "value": 76,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 26,
+    "target": "Record-26",
+    "x": 560,
+    "y": 360,
+    "value": 61,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 27,
+    "target": "Record-27",
+    "x": 680,
+    "y": 200,
+    "value": 10,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 28,
+    "target": "Record-28",
+    "x": 800,
+    "y": 180,
+    "value": 25,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 29,
+    "target": "Record-29",
+    "x": 660,
+    "y": 340,
+    "value": 83,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 30,
+    "target": "Record-30",
+    "x": 660,
+    "y": 440,
+    "value": 44,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 31,
+    "target": "Record-31",
+    "x": 560,
+    "y": 380,
+    "value": 42,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 32,
+    "target": "Record-32",
+    "x": 600,
+    "y": 340,
+    "value": 60,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 33,
+    "target": "Record-33",
+    "x": 820,
+    "y": 360,
+    "value": 71,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 34,
+    "target": "Record-34",
+    "x": 520,
+    "y": 380,
+    "value": 84,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 35,
+    "target": "Record-35",
+    "x": 660,
+    "y": 440,
+    "value": 75,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 36,
+    "target": "Record-36",
+    "x": 600,
+    "y": 280,
+    "value": 68,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 37,
+    "target": "Record-37",
+    "x": 840,
+    "y": 200,
+    "value": 42,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 38,
+    "target": "Record-38",
+    "x": 840,
+    "y": 400,
+    "value": 60,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 39,
+    "target": "Record-39",
+    "x": 540,
+    "y": 200,
+    "value": 33,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 40,
+    "target": "Record-40",
+    "x": 700,
+    "y": 240,
+    "value": 29,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 41,
+    "target": "Record-41",
+    "x": 660,
+    "y": 380,
+    "value": 37,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 42,
+    "target": "Record-42",
+    "x": 700,
+    "y": 220,
+    "value": 45,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 43,
+    "target": "Record-43",
+    "x": 820,
+    "y": 420,
+    "value": 45,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 44,
+    "target": "Record-44",
+    "x": 780,
+    "y": 260,
+    "value": 40,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 45,
+    "target": "Record-45",
+    "x": 600,
+    "y": 440,
+    "value": 27,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 46,
+    "target": "Record-46",
+    "x": 720,
+    "y": 360,
+    "value": 87,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 47,
+    "target": "Record-47",
+    "x": 820,
+    "y": 280,
+    "value": 14,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 48,
+    "target": "Record-48",
+    "x": 580,
+    "y": 420,
+    "value": 65,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "hover_value",
+    "seed": 49,
+    "target": "Record-49",
+    "x": 520,
+    "y": 440,
+    "value": 53,
+    "instruction": "Hover over the chart mark and read its value."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 0,
+    "target": "Record-00",
+    "x": 740,
+    "y": 360,
+    "value": 83,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 1,
+    "target": "Record-01",
+    "x": 660,
+    "y": 340,
+    "value": 67,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 2,
+    "target": "Record-02",
+    "x": 620,
+    "y": 240,
+    "value": 29,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 3,
+    "target": "Record-03",
+    "x": 660,
+    "y": 400,
+    "value": 37,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 4,
+    "target": "Record-04",
+    "x": 620,
+    "y": 420,
+    "value": 80,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 5,
+    "target": "Record-05",
+    "x": 540,
+    "y": 280,
+    "value": 45,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 6,
+    "target": "Record-06",
+    "x": 800,
+    "y": 340,
+    "value": 55,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 7,
+    "target": "Record-07",
+    "x": 720,
+    "y": 340,
+    "value": 62,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 8,
+    "target": "Record-08",
+    "x": 680,
+    "y": 180,
+    "value": 85,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 9,
+    "target": "Record-09",
+    "x": 540,
+    "y": 400,
+    "value": 32,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 10,
+    "target": "Record-10",
+    "x": 640,
+    "y": 380,
+    "value": 32,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 11,
+    "target": "Record-11",
+    "x": 660,
+    "y": 420,
+    "value": 48,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 12,
+    "target": "Record-12",
+    "x": 800,
+    "y": 360,
+    "value": 55,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 13,
+    "target": "Record-13",
+    "x": 760,
+    "y": 180,
+    "value": 69,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 14,
+    "target": "Record-14",
+    "x": 840,
+    "y": 380,
+    "value": 28,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 15,
+    "target": "Record-15",
+    "x": 540,
+    "y": 200,
+    "value": 21,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 16,
+    "target": "Record-16",
+    "x": 660,
+    "y": 280,
+    "value": 43,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 17,
+    "target": "Record-17",
+    "x": 780,
+    "y": 400,
+    "value": 27,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 18,
+    "target": "Record-18",
+    "x": 840,
+    "y": 320,
+    "value": 26,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 19,
+    "target": "Record-19",
+    "x": 660,
+    "y": 380,
+    "value": 17,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 20,
+    "target": "Record-20",
+    "x": 600,
+    "y": 260,
+    "value": 74,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 21,
+    "target": "Record-21",
+    "x": 560,
+    "y": 180,
+    "value": 80,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 22,
+    "target": "Record-22",
+    "x": 660,
+    "y": 420,
+    "value": 51,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 23,
+    "target": "Record-23",
+    "x": 840,
+    "y": 320,
+    "value": 77,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 24,
+    "target": "Record-24",
+    "x": 560,
+    "y": 280,
+    "value": 53,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 25,
+    "target": "Record-25",
+    "x": 800,
+    "y": 360,
+    "value": 81,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 26,
+    "target": "Record-26",
+    "x": 820,
+    "y": 180,
+    "value": 53,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 27,
+    "target": "Record-27",
+    "x": 660,
+    "y": 320,
+    "value": 88,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 28,
+    "target": "Record-28",
+    "x": 640,
+    "y": 320,
+    "value": 91,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 29,
+    "target": "Record-29",
+    "x": 580,
+    "y": 180,
+    "value": 25,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 30,
+    "target": "Record-30",
+    "x": 800,
+    "y": 260,
+    "value": 40,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 31,
+    "target": "Record-31",
+    "x": 520,
+    "y": 180,
+    "value": 11,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 32,
+    "target": "Record-32",
+    "x": 520,
+    "y": 420,
+    "value": 12,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 33,
+    "target": "Record-33",
+    "x": 540,
+    "y": 180,
+    "value": 14,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 34,
+    "target": "Record-34",
+    "x": 820,
+    "y": 380,
+    "value": 86,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 35,
+    "target": "Record-35",
+    "x": 760,
+    "y": 300,
+    "value": 22,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 36,
+    "target": "Record-36",
+    "x": 640,
+    "y": 340,
+    "value": 38,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 37,
+    "target": "Record-37",
+    "x": 720,
+    "y": 400,
+    "value": 41,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 38,
+    "target": "Record-38",
+    "x": 620,
+    "y": 260,
+    "value": 28,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 39,
+    "target": "Record-39",
+    "x": 600,
+    "y": 360,
+    "value": 17,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 40,
+    "target": "Record-40",
+    "x": 820,
+    "y": 440,
+    "value": 27,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 41,
+    "target": "Record-41",
+    "x": 620,
+    "y": 340,
+    "value": 57,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 42,
+    "target": "Record-42",
+    "x": 720,
+    "y": 220,
+    "value": 28,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 43,
+    "target": "Record-43",
+    "x": 800,
+    "y": 240,
+    "value": 37,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 44,
+    "target": "Record-44",
+    "x": 800,
+    "y": 420,
+    "value": 45,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 45,
+    "target": "Record-45",
+    "x": 580,
+    "y": 380,
+    "value": 29,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 46,
+    "target": "Record-46",
+    "x": 720,
+    "y": 340,
+    "value": 38,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 47,
+    "target": "Record-47",
+    "x": 820,
+    "y": 200,
+    "value": 70,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 48,
+    "target": "Record-48",
+    "x": 640,
+    "y": 180,
+    "value": 50,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_delay",
+    "seed": 49,
+    "target": "Record-49",
+    "x": 580,
+    "y": 360,
+    "value": 87,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 0,
+    "target": "Record-00",
+    "x": 700,
+    "y": 1100,
+    "value": 67,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 1,
+    "target": "Record-01",
+    "x": 600,
+    "y": 1120,
+    "value": 34,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 2,
+    "target": "Record-02",
+    "x": 700,
+    "y": 1180,
+    "value": 45,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 3,
+    "target": "Record-03",
+    "x": 780,
+    "y": 1120,
+    "value": 85,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 4,
+    "target": "Record-04",
+    "x": 600,
+    "y": 1100,
+    "value": 20,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 5,
+    "target": "Record-05",
+    "x": 840,
+    "y": 1200,
+    "value": 92,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 6,
+    "target": "Record-06",
+    "x": 800,
+    "y": 1100,
+    "value": 28,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 7,
+    "target": "Record-07",
+    "x": 540,
+    "y": 1160,
+    "value": 79,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 8,
+    "target": "Record-08",
+    "x": 680,
+    "y": 1120,
+    "value": 50,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 9,
+    "target": "Record-09",
+    "x": 640,
+    "y": 1140,
+    "value": 43,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 10,
+    "target": "Record-10",
+    "x": 840,
+    "y": 1180,
+    "value": 44,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 11,
+    "target": "Record-11",
+    "x": 780,
+    "y": 1140,
+    "value": 10,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 12,
+    "target": "Record-12",
+    "x": 600,
+    "y": 1200,
+    "value": 53,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 13,
+    "target": "Record-13",
+    "x": 600,
+    "y": 1160,
+    "value": 69,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 14,
+    "target": "Record-14",
+    "x": 720,
+    "y": 1120,
+    "value": 58,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 15,
+    "target": "Record-15",
+    "x": 520,
+    "y": 1120,
+    "value": 92,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 16,
+    "target": "Record-16",
+    "x": 520,
+    "y": 1100,
+    "value": 87,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 17,
+    "target": "Record-17",
+    "x": 680,
+    "y": 1120,
+    "value": 66,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 18,
+    "target": "Record-18",
+    "x": 640,
+    "y": 1180,
+    "value": 60,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 19,
+    "target": "Record-19",
+    "x": 620,
+    "y": 1100,
+    "value": 93,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 20,
+    "target": "Record-20",
+    "x": 580,
+    "y": 1200,
+    "value": 34,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 21,
+    "target": "Record-21",
+    "x": 780,
+    "y": 1120,
+    "value": 81,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 22,
+    "target": "Record-22",
+    "x": 760,
+    "y": 1200,
+    "value": 76,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 23,
+    "target": "Record-23",
+    "x": 740,
+    "y": 1100,
+    "value": 59,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 24,
+    "target": "Record-24",
+    "x": 760,
+    "y": 1100,
+    "value": 75,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 25,
+    "target": "Record-25",
+    "x": 800,
+    "y": 1140,
+    "value": 38,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 26,
+    "target": "Record-26",
+    "x": 620,
+    "y": 1120,
+    "value": 25,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 27,
+    "target": "Record-27",
+    "x": 740,
+    "y": 1200,
+    "value": 25,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 28,
+    "target": "Record-28",
+    "x": 540,
+    "y": 1200,
+    "value": 40,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 29,
+    "target": "Record-29",
+    "x": 680,
+    "y": 1180,
+    "value": 76,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 30,
+    "target": "Record-30",
+    "x": 740,
+    "y": 1160,
+    "value": 10,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 31,
+    "target": "Record-31",
+    "x": 520,
+    "y": 1200,
+    "value": 78,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 32,
+    "target": "Record-32",
+    "x": 720,
+    "y": 1100,
+    "value": 67,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 33,
+    "target": "Record-33",
+    "x": 640,
+    "y": 1140,
+    "value": 94,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 34,
+    "target": "Record-34",
+    "x": 660,
+    "y": 1140,
+    "value": 65,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 35,
+    "target": "Record-35",
+    "x": 840,
+    "y": 1140,
+    "value": 94,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 36,
+    "target": "Record-36",
+    "x": 800,
+    "y": 1160,
+    "value": 41,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 37,
+    "target": "Record-37",
+    "x": 720,
+    "y": 1200,
+    "value": 43,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 38,
+    "target": "Record-38",
+    "x": 520,
+    "y": 1140,
+    "value": 72,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 39,
+    "target": "Record-39",
+    "x": 820,
+    "y": 1100,
+    "value": 12,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 40,
+    "target": "Record-40",
+    "x": 700,
+    "y": 1140,
+    "value": 69,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 41,
+    "target": "Record-41",
+    "x": 660,
+    "y": 1180,
+    "value": 49,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 42,
+    "target": "Record-42",
+    "x": 820,
+    "y": 1200,
+    "value": 78,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 43,
+    "target": "Record-43",
+    "x": 840,
+    "y": 1200,
+    "value": 93,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 44,
+    "target": "Record-44",
+    "x": 640,
+    "y": 1120,
+    "value": 14,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 45,
+    "target": "Record-45",
+    "x": 780,
+    "y": 1160,
+    "value": 72,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 46,
+    "target": "Record-46",
+    "x": 600,
+    "y": 1140,
+    "value": 28,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 47,
+    "target": "Record-47",
+    "x": 700,
+    "y": 1200,
+    "value": 70,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 48,
+    "target": "Record-48",
+    "x": 740,
+    "y": 1200,
+    "value": 32,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_offscreen",
+    "seed": 49,
+    "target": "Record-49",
+    "x": 600,
+    "y": 1180,
+    "value": 13,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 0,
+    "target": "Record-00",
+    "x": 720,
+    "y": 200,
+    "value": 93,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 1,
+    "target": "Record-01",
+    "x": 560,
+    "y": 200,
+    "value": 20,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 2,
+    "target": "Record-02",
+    "x": 820,
+    "y": 380,
+    "value": 78,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 3,
+    "target": "Record-03",
+    "x": 580,
+    "y": 440,
+    "value": 39,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 4,
+    "target": "Record-04",
+    "x": 660,
+    "y": 320,
+    "value": 14,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 5,
+    "target": "Record-05",
+    "x": 520,
+    "y": 380,
+    "value": 30,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 6,
+    "target": "Record-06",
+    "x": 580,
+    "y": 380,
+    "value": 80,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 7,
+    "target": "Record-07",
+    "x": 760,
+    "y": 260,
+    "value": 90,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 8,
+    "target": "Record-08",
+    "x": 740,
+    "y": 180,
+    "value": 46,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 9,
+    "target": "Record-09",
+    "x": 700,
+    "y": 440,
+    "value": 43,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 10,
+    "target": "Record-10",
+    "x": 540,
+    "y": 220,
+    "value": 67,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 11,
+    "target": "Record-11",
+    "x": 520,
+    "y": 220,
+    "value": 66,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 12,
+    "target": "Record-12",
+    "x": 600,
+    "y": 320,
+    "value": 53,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 13,
+    "target": "Record-13",
+    "x": 780,
+    "y": 240,
+    "value": 85,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 14,
+    "target": "Record-14",
+    "x": 840,
+    "y": 400,
+    "value": 48,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 15,
+    "target": "Record-15",
+    "x": 840,
+    "y": 340,
+    "value": 57,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 16,
+    "target": "Record-16",
+    "x": 800,
+    "y": 220,
+    "value": 93,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 17,
+    "target": "Record-17",
+    "x": 780,
+    "y": 440,
+    "value": 13,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 18,
+    "target": "Record-18",
+    "x": 640,
+    "y": 260,
+    "value": 36,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 19,
+    "target": "Record-19",
+    "x": 520,
+    "y": 340,
+    "value": 30,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 20,
+    "target": "Record-20",
+    "x": 780,
+    "y": 420,
+    "value": 55,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 21,
+    "target": "Record-21",
+    "x": 820,
+    "y": 420,
+    "value": 60,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 22,
+    "target": "Record-22",
+    "x": 600,
+    "y": 380,
+    "value": 51,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 23,
+    "target": "Record-23",
+    "x": 720,
+    "y": 300,
+    "value": 34,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 24,
+    "target": "Record-24",
+    "x": 740,
+    "y": 380,
+    "value": 13,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 25,
+    "target": "Record-25",
+    "x": 620,
+    "y": 200,
+    "value": 28,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 26,
+    "target": "Record-26",
+    "x": 780,
+    "y": 420,
+    "value": 34,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 27,
+    "target": "Record-27",
+    "x": 740,
+    "y": 260,
+    "value": 84,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 28,
+    "target": "Record-28",
+    "x": 740,
+    "y": 380,
+    "value": 55,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 29,
+    "target": "Record-29",
+    "x": 680,
+    "y": 400,
+    "value": 64,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 30,
+    "target": "Record-30",
+    "x": 680,
+    "y": 240,
+    "value": 64,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 31,
+    "target": "Record-31",
+    "x": 660,
+    "y": 400,
+    "value": 64,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 32,
+    "target": "Record-32",
+    "x": 840,
+    "y": 340,
+    "value": 83,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 33,
+    "target": "Record-33",
+    "x": 540,
+    "y": 360,
+    "value": 12,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 34,
+    "target": "Record-34",
+    "x": 700,
+    "y": 280,
+    "value": 48,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 35,
+    "target": "Record-35",
+    "x": 580,
+    "y": 300,
+    "value": 34,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 36,
+    "target": "Record-36",
+    "x": 840,
+    "y": 240,
+    "value": 60,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 37,
+    "target": "Record-37",
+    "x": 680,
+    "y": 320,
+    "value": 77,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 38,
+    "target": "Record-38",
+    "x": 560,
+    "y": 180,
+    "value": 33,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 39,
+    "target": "Record-39",
+    "x": 620,
+    "y": 240,
+    "value": 89,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 40,
+    "target": "Record-40",
+    "x": 840,
+    "y": 420,
+    "value": 21,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 41,
+    "target": "Record-41",
+    "x": 820,
+    "y": 340,
+    "value": 70,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 42,
+    "target": "Record-42",
+    "x": 660,
+    "y": 400,
+    "value": 22,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 43,
+    "target": "Record-43",
+    "x": 780,
+    "y": 280,
+    "value": 88,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 44,
+    "target": "Record-44",
+    "x": 520,
+    "y": 380,
+    "value": 76,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 45,
+    "target": "Record-45",
+    "x": 760,
+    "y": 180,
+    "value": 61,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 46,
+    "target": "Record-46",
+    "x": 820,
+    "y": 420,
+    "value": 82,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 47,
+    "target": "Record-47",
+    "x": 680,
+    "y": 260,
+    "value": 58,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 48,
+    "target": "Record-48",
+    "x": 620,
+    "y": 200,
+    "value": 21,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_overlay",
+    "seed": 49,
+    "target": "Record-49",
+    "x": 840,
+    "y": 380,
+    "value": 39,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 0,
+    "target": "Record-00",
+    "x": 640,
+    "y": 320,
+    "value": 44,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 1,
+    "target": "Record-01",
+    "x": 800,
+    "y": 400,
+    "value": 69,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 2,
+    "target": "Record-02",
+    "x": 800,
+    "y": 280,
+    "value": 76,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 3,
+    "target": "Record-03",
+    "x": 520,
+    "y": 180,
+    "value": 88,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 4,
+    "target": "Record-04",
+    "x": 760,
+    "y": 300,
+    "value": 90,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 5,
+    "target": "Record-05",
+    "x": 700,
+    "y": 300,
+    "value": 91,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 6,
+    "target": "Record-06",
+    "x": 640,
+    "y": 400,
+    "value": 38,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 7,
+    "target": "Record-07",
+    "x": 800,
+    "y": 380,
+    "value": 27,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 8,
+    "target": "Record-08",
+    "x": 560,
+    "y": 260,
+    "value": 61,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 9,
+    "target": "Record-09",
+    "x": 760,
+    "y": 220,
+    "value": 22,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 10,
+    "target": "Record-10",
+    "x": 840,
+    "y": 400,
+    "value": 78,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 11,
+    "target": "Record-11",
+    "x": 640,
+    "y": 360,
+    "value": 95,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 12,
+    "target": "Record-12",
+    "x": 780,
+    "y": 440,
+    "value": 58,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 13,
+    "target": "Record-13",
+    "x": 600,
+    "y": 340,
+    "value": 75,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 14,
+    "target": "Record-14",
+    "x": 800,
+    "y": 280,
+    "value": 35,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 15,
+    "target": "Record-15",
+    "x": 660,
+    "y": 280,
+    "value": 19,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 16,
+    "target": "Record-16",
+    "x": 620,
+    "y": 180,
+    "value": 82,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 17,
+    "target": "Record-17",
+    "x": 540,
+    "y": 380,
+    "value": 39,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 18,
+    "target": "Record-18",
+    "x": 680,
+    "y": 240,
+    "value": 35,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 19,
+    "target": "Record-19",
+    "x": 820,
+    "y": 220,
+    "value": 21,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 20,
+    "target": "Record-20",
+    "x": 760,
+    "y": 260,
+    "value": 37,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 21,
+    "target": "Record-21",
+    "x": 780,
+    "y": 420,
+    "value": 16,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 22,
+    "target": "Record-22",
+    "x": 820,
+    "y": 220,
+    "value": 91,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 23,
+    "target": "Record-23",
+    "x": 800,
+    "y": 340,
+    "value": 38,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 24,
+    "target": "Record-24",
+    "x": 820,
+    "y": 320,
+    "value": 11,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 25,
+    "target": "Record-25",
+    "x": 540,
+    "y": 340,
+    "value": 55,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 26,
+    "target": "Record-26",
+    "x": 740,
+    "y": 360,
+    "value": 64,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 27,
+    "target": "Record-27",
+    "x": 760,
+    "y": 220,
+    "value": 87,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 28,
+    "target": "Record-28",
+    "x": 820,
+    "y": 260,
+    "value": 86,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 29,
+    "target": "Record-29",
+    "x": 780,
+    "y": 400,
+    "value": 11,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 30,
+    "target": "Record-30",
+    "x": 600,
+    "y": 200,
+    "value": 70,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 31,
+    "target": "Record-31",
+    "x": 640,
+    "y": 400,
+    "value": 46,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 32,
+    "target": "Record-32",
+    "x": 640,
+    "y": 400,
+    "value": 68,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 33,
+    "target": "Record-33",
+    "x": 520,
+    "y": 260,
+    "value": 59,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 34,
+    "target": "Record-34",
+    "x": 760,
+    "y": 360,
+    "value": 21,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 35,
+    "target": "Record-35",
+    "x": 800,
+    "y": 240,
+    "value": 58,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 36,
+    "target": "Record-36",
+    "x": 820,
+    "y": 180,
+    "value": 27,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 37,
+    "target": "Record-37",
+    "x": 720,
+    "y": 320,
+    "value": 83,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 38,
+    "target": "Record-38",
+    "x": 720,
+    "y": 240,
+    "value": 81,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 39,
+    "target": "Record-39",
+    "x": 700,
+    "y": 240,
+    "value": 31,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 40,
+    "target": "Record-40",
+    "x": 600,
+    "y": 440,
+    "value": 17,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 41,
+    "target": "Record-41",
+    "x": 600,
+    "y": 300,
+    "value": 21,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 42,
+    "target": "Record-42",
+    "x": 780,
+    "y": 180,
+    "value": 71,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 43,
+    "target": "Record-43",
+    "x": 780,
+    "y": 440,
+    "value": 60,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 44,
+    "target": "Record-44",
+    "x": 660,
+    "y": 240,
+    "value": 28,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 45,
+    "target": "Record-45",
+    "x": 620,
+    "y": 280,
+    "value": 31,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 46,
+    "target": "Record-46",
+    "x": 520,
+    "y": 340,
+    "value": 21,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 47,
+    "target": "Record-47",
+    "x": 820,
+    "y": 200,
+    "value": 29,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 48,
+    "target": "Record-48",
+    "x": 660,
+    "y": 200,
+    "value": 20,
+    "instruction": "Complete the displayed task."
+  },
+  {
+    "task": "additional_disabled",
+    "seed": 49,
+    "target": "Record-49",
+    "x": 640,
+    "y": 260,
+    "value": 10,
+    "instruction": "Complete the displayed task."
+  }
+]

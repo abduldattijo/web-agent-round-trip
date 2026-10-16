@@ -1,0 +1,3 @@
+<!doctype html><html><head><meta charset="utf-8"><style>body{font:18px Arial}button{display:block;width:90%;padding:16px;margin:12px;border:1px solid #555;background:#dce8f5}.selected{background:#8ee2ae}</style></head><body><h2>Records</h2><div id="rows"></div><script>
+const target=new URLSearchParams(location.search).get('target');for(let i=0;i<5;i++){let b=document.createElement('button');b.id='row-'+i;b.textContent='Record '+i;document.querySelector('#rows').append(b);b.addEventListener('click',()=>{document.querySelectorAll('button').forEach(x=>x.classList.remove('selected'));b.classList.add('selected');parent.postMessage({kind:'row',value:b.id},location.origin)})}
+</script></body></html>

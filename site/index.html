@@ -1,0 +1,31 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Round trip fixture</title>
+<style>body{font:18px Arial;margin:24px;color:#17202a}button,input{font:inherit;padding:12px}button{background:#dce8f5;border:2px solid #567;border-radius:6px}#status{margin-top:20px}#stage{position:relative;width:1150px;height:700px;border:1px solid #aaa;background:#fafafa}.grid-button{position:absolute;width:150px;height:72px}.selected{background:#8ee2ae!important}#tooltip{position:absolute;background:#222;color:white;padding:12px;visibility:hidden;pointer-events:none}iframe{width:700px;height:380px;border:2px solid #667}#overlay{position:absolute;background:rgba(190,20,20,.65);z-index:5;width:180px;height:90px}</style></head>
+<body><h1>Local browser action fixture</h1><p id="instruction"></p><main id="stage"></main><p id="status">Ready</p>
+<script>
+const cfg=JSON.parse(new URLSearchParams(location.search).get('cfg'));
+window.__ledger=[]; const record=(type, detail)=>__ledger.push({type,detail,t:performance.now()});
+const stage=document.querySelector('#stage'),status=document.querySelector('#status');
+document.querySelector('#instruction').textContent=cfg.instruction;
+function targetButton(x,y,label,id='target') {let b=document.createElement('button');b.id=id;b.className='grid-button';b.textContent=label;b.style.left=x+'px';b.style.top=y+'px';stage.append(b);return b}
+if(cfg.task==='search_token'){
+ let input=document.createElement('input');input.id='query';input.placeholder='Exact record name';stage.append(input);
+ let go=document.createElement('button');go.id='submit';go.textContent='Search';stage.append(go);
+ input.addEventListener('input',()=>record('input',input.value));
+ go.addEventListener('click',()=>{record('submit',input.value);status.textContent=input.value===cfg.target?'Found '+cfg.target:'No exact result';});
+} else if(cfg.task==='scaled_click'){
+ for(let i=0;i<cfg.buttons.length;i++){let [x,y]=cfg.buttons[i],b=targetButton(x,y,'Item '+i,'button-'+i);
+ b.addEventListener('click',()=>{record('click',b.id);b.classList.add('selected');status.textContent='Selected '+b.textContent;});}
+} else if(cfg.task==='frame_feedback'){
+ let f=document.createElement('iframe');f.id='rows';f.src='/frame.html?target='+encodeURIComponent(cfg.target);stage.append(f);
+ window.addEventListener('message',e=>{if(e.data&&e.data.kind==='row')record('row',e.data.value)});
+} else if(cfg.task==='hover_value'){
+ let dot=document.createElement('button');dot.id='mark';dot.textContent='●';dot.style.position='absolute';dot.style.left=cfg.x+'px';dot.style.top=cfg.y+'px';stage.append(dot);
+ let tip=document.createElement('span');tip.id='tooltip';tip.textContent='Value: '+cfg.value;tip.style.left=(cfg.x+50)+'px';tip.style.top=cfg.y+'px';stage.append(tip);
+ dot.addEventListener('mouseenter',()=>{record('hover','mark');setTimeout(()=>{tip.style.visibility='visible';record('tooltip_visible',tip.textContent)},120)});
+} else {
+ let b=targetButton(cfg.x,cfg.y,'Activate','target');
+ b.addEventListener('click',()=>{record('click','target');let done=()=>{b.classList.add('selected');status.textContent='Activated';record('activated','target')}; cfg.task==='additional_delay'?setTimeout(done,800):done()});
+ if(cfg.task==='additional_overlay'){let o=document.createElement('div');o.id='overlay';o.style.left=cfg.x+'px';o.style.top=cfg.y+'px';o.addEventListener('click',()=>record('overlay_click','overlay'));stage.append(o)}
+ if(cfg.task==='additional_disabled')b.disabled=true;
+}
+</script></body></html>

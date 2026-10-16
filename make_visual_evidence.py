@@ -69,9 +69,9 @@ def iframe():
     d.rectangle((76, 429, 538, 468), outline=GREEN, width=4)
     label(d, (980, 118), "Page result", "Record 4 selected in the frame", GREEN)
     label(d, (980, 265), "Raw tool feedback", "No detectable change", RED)
-    label(d, (980, 412), "Round-trip check", "Frame selected row-4", BLUE)
-    d.text((980, 568), "Phase C, seed 10, run 1", font=font(23), fill=MUTED)
-    d.text((980, 603), "Same-origin local fixture", font=font(23), fill=MUTED)
+    label(d, (980, 412), "Outcome check", "Frame selected row-4", BLUE)
+    d.text((980, 568), "One of the 720 final episodes", font=font(23), fill=MUTED)
+    d.text((980, 603), "Frame from the same site", font=font(23), fill=MUTED)
     base.save(OUT / "iframe_feedback_evidence.png")
 
 

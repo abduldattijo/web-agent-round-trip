@@ -30,7 +30,7 @@ def main():
         for j,policy in enumerate(("unverified","generic","round_trip")):
             bar_y=y+36+j*32
             value=data["by_task"][task][policy]["successes"]
-            draw.text((55,bar_y),policy.replace("_"," ").title(),font=small,fill="#3b4855")
+            draw.text((55,bar_y),{"unverified":"Unverified","generic":"Generic","round_trip":"Outcome check"}[policy],font=small,fill="#3b4855")
             draw.rounded_rectangle((220,bar_y,1120,bar_y+21),radius=8,fill="#eef1f4")
             if value:
                 draw.rounded_rectangle((220,bar_y,220+900*value/60,bar_y+21),radius=8,fill=COLORS[policy])

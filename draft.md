@@ -6,6 +6,8 @@
 
 I wanted to test what happens after the model makes a correct choice. I built a small browser site, recorded 80 successful decisions from Claude Haiku 5.5, and replayed those decisions with deliberate faults. I measured whether checks spotted the fault and whether the agent still finished the task. The answers were often different. The [WebFovea paper and its code](https://github.com/jianganghan/WebFovea) motivated my setup; the results below come from my own browser pages and saved traces.
 
+The [code, raw traces, figures, and recording](https://github.com/abduldattijo/web-agent-round-trip) are public. The [browser audit results](https://github.com/abduldattijo/web-agent-round-trip/blob/main/results/phase_a.jsonl) and [final agent episodes](https://github.com/abduldattijo/web-agent-round-trip/blob/main/results/phase_c.jsonl) support the counts below.
+
 ## One right decision, two different clicks
 
 The agent saw a 900 pixel wide screenshot and was asked to click Item 15. It returned image point `(150, 413)`. The browser's visible area, called the viewport, was 1200 pixels wide.
@@ -27,6 +29,8 @@ page.mouse.click(browser_x, browser_y)
 ![Two screenshots of the same recorded click show Item 15 selected with correct conversion and Item 10 selected with faulty conversion.](figures/continuous_click_seed12_comparison.png)
 
 *Figure 1. Image by author. Both stills come from the continuous seed 12 recording of the same saved decision. The green circle marks the working click on Item 15. The red circle marks the faulty click on Item 10.*
+
+Watch the [continuous browser recording](https://github.com/abduldattijo/web-agent-round-trip/blob/main/figures/continuous_model_click_seed12.webm) or the [short GIF](https://github.com/abduldattijo/web-agent-round-trip/blob/main/figures/continuous_model_click_seed12.gif).
 
 ## What did I break, and what could the checks see?
 
@@ -142,5 +146,6 @@ Which would your current browser logs tell you after a failed click, the coordin
 
 ## Selected sources
 
+- [Experiment code and raw results](https://github.com/abduldattijo/web-agent-round-trip), including the browser pages, action traces, figures, and recording.
 - [WebFovea paper](https://arxiv.org/html/2610.03036v2), for the reported live site failures and four step framing.
 - [Playwright Mouse API](https://playwright.dev/python/docs/api/class-mouse), for the browser pixel convention.
